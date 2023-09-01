@@ -5,8 +5,7 @@ Créer un client kiosk avec un orange pi zero 3
 Pour créer une borne de consultation du solde, il faut un pc arm ou orange pi zero 3 qui démarre avec linux en mode kiosk.
 Le démarrage arrive directement dans le navigateur sur la page prévu pour la consultation du solde, les message du démarrage seront désactivé en production et le pointeur de souris disparaître en moins de 1 seconde.
 Nous désactiverons aussi les console virtuel et certains raccourci firefox
-On crée la carte sd avec l’image Debian cli de orangepi zero 3, l’os est l’image   
-qui vient de cette source https://github.com/leeboby/armbian-images
+On crée la carte sd avec l’image Debian cli de orangepi zero 3, l’os est l’image qui vient de cette source https://github.com/leeboby/armbian-images
 L’image de debian 12 1gb serveur, on la grave sur la carte sd une sandisk;)
 
 on démarre le orange pi zero 3, on créer un mot de passe pour root et un user.
